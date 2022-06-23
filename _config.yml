@@ -11,9 +11,9 @@ title                    : "Madeleine Iolster"
 title_separator          : "-"
 name                     : &name "Madeleine Iolster"
 description              : &description "personal description"
-url                      : https://madeleine_iolster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://madeleineiolster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "madeleine_iolster/madeleine_iolster.github.io"
+repository               : "madeleineiolster/madeleineiolster.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "madeleineiolster"
+  github           : "MadeleineIolster"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "madi_iolster"
+  twitter          : "madiiolster"
   vine             :
   weibo            :
   xing             :
