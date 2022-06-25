@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Madeleine Iolster"
+title                    : "Madeleine Iölster"
 title_separator          : "-"
-name                     : &name "Madeleine Iolster"
+name                     : &name "Madeleine Iölster"
 description              : &description "personal description"
 url                      : https://madeleineiolster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "madiiolster"
+  twitter          : "madiolster"
   vine             :
   weibo            :
   xing             :
